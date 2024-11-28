@@ -1,5 +1,11 @@
 # SCRABBLE ![Static Badge](https://img.shields.io/badge/S-yellow) ![Static Badge](https://img.shields.io/badge/C-yellow) ![Static Badge](https://img.shields.io/badge/A-yellow) ![Static Badge](https://img.shields.io/badge/B-yellow) ![Static Badge](https://img.shields.io/badge/B-yellow) ![Static Badge](https://img.shields.io/badge/L-yellow) ![Static Badge](https://img.shields.io/badge/E-yellow)
 
+# A FAIRE : 
+- Définir ce qu'est une pile
+- Faire des mots inversés : lorqu'un joueur forme un mot à l'envers, il peut réduire le score de l'adversaire de son choix.
+- PNG de la photo de la table scrabble
+- Lors du changement de langue, une soustraction doit être faite
+
 
 # Règles du jeu 🎮
 1. Objectif du jeu 🎯
@@ -85,10 +91,6 @@
 - À chaque tour, un joueur doit former un mot valide sur le plateau en respectant sa langue active.
 2. 
 
-# Déroulé des duels
-
-* Lors d'un duel, chacun de joueur joue une carte de sa pile. Le joueur ayant joué la carte de plus haute valeur l'emporte et met sous sa pile les cartes jouées, en les mélangeant.
-* Si les deux joueurs ont joué une carte de même valeur, le duel recommence en accumulant les cartes jouées de telle sorte à ce que le gagnant empoche la totalité des cartes du duel.
 
 # Fin de la partie 🏁
 1. Conditions de fin de partie ⏹️
