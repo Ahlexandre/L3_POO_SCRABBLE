@@ -4,7 +4,7 @@
 - Définir ce qu'est une pile
 - Faire des mots inversés : lorqu'un joueur forme un mot à l'envers, il peut réduire le score de l'adversaire de son choix.
 - PNG de la photo de la table scrabble
-- Lors du changement de langue, une soustraction doit être faite
+- Lors du changement de langue, on addditione toutes les lettres du la pioche du changement de langue à la pioche de la langue par défaut (français)
 
 
 # Règles du jeu 🎮
