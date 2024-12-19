@@ -1,9 +1,7 @@
 # SCRABBLE ![Static Badge](https://img.shields.io/badge/S-yellow) ![Static Badge](https://img.shields.io/badge/C-yellow) ![Static Badge](https://img.shields.io/badge/A-yellow) ![Static Badge](https://img.shields.io/badge/B-yellow) ![Static Badge](https://img.shields.io/badge/B-yellow) ![Static Badge](https://img.shields.io/badge/L-yellow) ![Static Badge](https://img.shields.io/badge/E-yellow)
 
 # A FAIRE : 
-- Définir ce qu'est une pile
 - Faire des mots inversés : lorqu'un joueur forme un mot à l'envers, il peut réduire le score de l'adversaire de son choix.
-- PNG de la photo de la table scrabble
 - Lors du changement de langue, on addditione toutes les lettres du la pioche du changement de langue à la pioche de la langue par défaut (français)
 
 
@@ -108,17 +106,12 @@
 
 ### Détail des classes principales
 
-Un exemple de jeu supportant le réseau
-
-* LocalWarGame la version du jeu supportant le jeu en local
-* WarGameEngine le moteur du jeu
-* WarGameNetorkPlayer le joueur distant en cas de partie réseau
-* WarGameNetworkEngine la version du jeu supportant le réseau
+=
 
 
 # Protocole réseau
 
-> Le protocole réseau définit les séquences des commandes échangées entre les différentes parties prenantes. Il doit contenir, pour chaque commande, l'expéditeur, le destinataire, le nom de la commande et le contenu du corps de la commande.
+
 
 ![protocole](doc/protocle.png)
 
